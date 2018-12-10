@@ -1,3 +1,8 @@
+// Headers for WS2812B protocol implementation for the attiny13
+//
+// Author: Amber Sprenkels <amber@electricdusk.com>
+// License: MIT
+
 #ifndef WS2812B_ATTINY13_H_
 #define WS2812B_ATTINY13_H_
 
