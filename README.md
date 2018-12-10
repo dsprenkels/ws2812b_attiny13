@@ -1,4 +1,4 @@
-# WS2812B driver fot the attiny13
+# WS2812B driver for the attiny13
 
 The attiny13 is one of the cheapest and easy to use microcontrollers that you can probably find. It's a good solution when you only need to do a really simple task. This "library" supplies a function that can send talk to a single WS2812B led.
 
