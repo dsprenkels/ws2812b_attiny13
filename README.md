@@ -1,8 +1,8 @@
-# WS2812B driver fot the attiny13
+# WS2812B driver for the attiny13
 
 The attiny13 is one of the cheapest and easy to use microcontrollers that you can probably find. It's a good solution when you only need to do a really simple task. This "library" supplies a function that can send talk to a single WS2812B led.
 
-The WS2812B is an RBG led, which needs only one data pin from the microcontroller. It listens on its data pin and will emit the color that it receives. Such an RGB led is useful if you want to be able to provide multiple different status messages (thtough led colors), without having to sacrifice too many microcontroller pins.
+The WS2812B is an RBG led, which needs only one data pin from the microcontroller. It listens on its data pin and will emit the color that it receives. Such an RGB led is useful if you want to be able to provide multiple different status messages (through led colors), without having to sacrifice too many microcontroller pins.
 
 ## Setup
 
